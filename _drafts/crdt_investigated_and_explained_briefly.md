@@ -1,6 +1,6 @@
 # CRDT: investigated and explained briefly
 
-Another buzz all around: get the CRDT adopted and your app will be web-scaled. Bingo! So, lets try to figure out how how it could be done.
+'It will be just a Cargo Shipment Control application' - they said. 'Just need to decide this class its an entity or an value object' they said. But one day we found us digged into all this CAP stuff fighing for consistency of events streams, reading about Actor Model, Vector Clock and CRDT. Damn, I miss the days I could play with my little ships.
 
 -----------
 Refences:
